@@ -1,4 +1,4 @@
-# GitTP
+﻿# GitTP
 package Vect;
 import java.util.Scanner;
 
@@ -14,6 +14,8 @@ public class VectorHelper {
 	
 	public int vect[] = new int[10];
 	int var;
+
+
 	
 	/************************METHODE TRIER_VECT***********************************/
 	
@@ -103,7 +105,7 @@ public class VectorHelper {
 	   
 	   
    }
-	System.out.println(" valeurrrr du maximumm est "+max);	
+	System.out.println(" valeurrrr du maximumeeeee hnaaa est "+max);	
 	System.out.println(" valeurrrr du minimum   est "+min);	
 	return max+min;
 
