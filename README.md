@@ -13,8 +13,6 @@ import java.util.Scanner;
 public class VectorHelper {
 	
 	public int vect[] = new int[10];
-	
-	
 	int var;
 	
 	/************************METHODE TRIER_VECT***********************************/
