@@ -14,6 +14,7 @@ public class VectorHelper {
 	
 	public int vect[] = new int[10];
 	int variable;
+	int var;
 	
 	
 
